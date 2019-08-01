@@ -4,6 +4,6 @@
 }
 
 * {
-  background: red important!;
-  font: blue important!;
+  background-color: red !important;
+  color: blue !important;
 }
