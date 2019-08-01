@@ -2,3 +2,8 @@
   width: 64px;
   height: 64px;
 }
+
+* {
+  background: red important!;
+  font: blue important!;
+}
